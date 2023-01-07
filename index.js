@@ -4,6 +4,5 @@ module.exports = {
         './react',
         './imports',
         './typescript',
-        './simple-import-sort',
     ].map((p) => require.resolve(p)),
 };
