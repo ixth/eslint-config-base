@@ -1,5 +1,6 @@
 module.exports = {
     rules: {
+        'import/order': 'error',
         // errors
         'import/extensions': [
             'error',
