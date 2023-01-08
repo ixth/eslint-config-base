@@ -1,7 +1,7 @@
 {
   "private": false,
-  "name": "@ixth/eslint-config",
-  "version": "0.0.6",
+  "name": "@ixth/eslint-config-base",
+  "version": "0.0.7",
   "description": "My Preferred ESLint Config",
   "homepage": "https://github.com/ixth/eslint-config-base",
   "repository": "git@github.com:ixth/eslint-config-base.git",
